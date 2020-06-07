@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Standard-Normal-Table/static/css/main.56406611.chunk.css",
+    "main.js": "/Standard-Normal-Table/static/js/main.196cbcb6.chunk.js",
+    "main.js.map": "/Standard-Normal-Table/static/js/main.196cbcb6.chunk.js.map",
+    "runtime-main.js": "/Standard-Normal-Table/static/js/runtime-main.001a24f5.js",
+    "runtime-main.js.map": "/Standard-Normal-Table/static/js/runtime-main.001a24f5.js.map",
+    "static/js/2.213612b0.chunk.js": "/Standard-Normal-Table/static/js/2.213612b0.chunk.js",
+    "static/js/2.213612b0.chunk.js.map": "/Standard-Normal-Table/static/js/2.213612b0.chunk.js.map",
+    "index.html": "/Standard-Normal-Table/index.html",
+    "precache-manifest.6beb21ea48b81fcbc6aa5504b93f992f.js": "/Standard-Normal-Table/precache-manifest.6beb21ea48b81fcbc6aa5504b93f992f.js",
+    "service-worker.js": "/Standard-Normal-Table/service-worker.js",
+    "static/css/main.56406611.chunk.css.map": "/Standard-Normal-Table/static/css/main.56406611.chunk.css.map",
+    "static/js/2.213612b0.chunk.js.LICENSE.txt": "/Standard-Normal-Table/static/js/2.213612b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.001a24f5.js",
+    "static/js/2.213612b0.chunk.js",
+    "static/css/main.56406611.chunk.css",
+    "static/js/main.196cbcb6.chunk.js"
+  ]
+}
